@@ -1,5 +1,7 @@
 # CubeSubstractProject
 
+This project is build in Unity 2022.3.20f1, make sure you have the right version of Unity.
+
 To run this project with WebGL build , go to build settings and choose build and run. 
 The build file path is CubeSubstractProject\WEBGLBUILD
 
